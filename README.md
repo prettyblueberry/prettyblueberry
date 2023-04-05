@@ -3,7 +3,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prettyblueberry" alt="prettyblueberry" /></a> </p> -->
 
-- 🌱 I’m currently learning **Rust**
 
 <!-- - 👨‍💻 All of my projects are available at [https://discord.com/users/1060016406810349671](https://discord.com/users/1060016406810349671) -->
 
