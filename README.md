@@ -7,8 +7,6 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://discord.com/users/1060016406810349671](https://discord.com/users/1060016406810349671) -->
 
-- 💬 Ask me about **Node.js, Express.js, React, Gatsby, Next.js, Golang, Firebase**
-
 <!-- - 📄 Know about my experiences [https://discord.com/users/1060016406810349671](https://discord.com/users/1060016406810349671) -->
 
 <h3 align="left">Connect with me:</h3>
