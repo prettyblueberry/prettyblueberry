@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blueberry</h1>
 <h3 align="center">Software Engineer</h3>
 
+[![Profile Visitors](https://komarev.com/ghpvc/?username=prettyblueberry&label=Profile%20Visitors&color=0e75b6&style=flat)](https://github.com/prettyblueberry/)
+
+
 A skillful full-stack engineer who is fitting for most of things from basic web apps to intricate high-performance systems.
 
 
