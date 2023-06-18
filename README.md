@@ -24,7 +24,10 @@ Additionally, this individual enjoys the flexibility and comfort of working remo
 
 </p>
 
-# 💻 I'm a Native Speaker in these languages
+
+
+# 💻 I'm a Native Writer of the following languages:
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
