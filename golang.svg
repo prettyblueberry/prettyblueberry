@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" fill="#fff"/>
+  <path d="M99.6 61.3c0 18.3-9.8 27-22.7 34.4l-8.7 4.5c-7.4 3.9-10.5 6.1-10.5 10.6v2.2H67.7V120H59V66.7c0-4.5-.4-7.4-1.4-10.6H72.8L68 46.9c-7.4-4-13.9-7.4-13.9-17 0-9.2 7.9-16.3 19.4-16.3 11.6 0 19.9 6.3 22.7 21.5h10.6c-.6-16.4-9.6-27-23-27-14 0-23.5 10.4-23.5 24.7 0 14.4 7.9 23.6 23.1 28.2l9.1 2.2c8.7 2.2 12.9 4.3 12.9 10.6v3.9H97V94H87.8v36H97v6.1h2.7c1.2-1.7 1.8-4.5 1.8-7.5 0-4.1-1.4-7.5-4.3-10.7l-9.6-8.7c-2.7-2.6-3.4-4.4-3.4-6.7 0-3.1 2.1-4.4 5.1-4.4 5.2 0 9.7 3.5 11.2 7.8h7c-1.7-6.9-6.5-13.2-14-16.3l-.1-.1c-5.1-2-10.5-3.2-10.5-10.5 0-5.7 5.3-8.7 12.8-8.7 5.9 0 12.3.6 17.5 2.3l-.6 8.7z" fill="#29b2e1">
+    <animateTransform attributeName="transform" type="rotate" from="0 64 64" to="360 64 64" dur="5s" repeatCount="indefinite"/>
+  </path>
+<style>
+body {
+  background-color: #a3d5d3;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  a {
+    color: #097f9c;
+  }
+}
+
+.container{
+  width: 30%;
+  margin: 20px auto;
+}
+
+// SVG base fills
+.cls-1 {fill:#11485e;}
+.cls-2 {fill:#7fc2e2;}
+.cls-3 {fill:#d8d5d5;}
+.cls-4 {fill:#131413;}
+.cls-5 {fill:#fff;}
+.cls-6 {fill:#b28f82;}
+.cls-7 {fill:#231f20;}
+.cls-8 {fill:#418cbd;}
+
+// calling animations
+.eye {
+  animation: squeeze 2.4s infinite;
+}
+.nose {
+  animation: nose 2s infinite ease;
+}
+.gopher {
+  transform: translateY(120px);
+  animation: start .8s forwards ease-in-out;
+}
+// setting animations
+@keyframes start {
+  100% { transform: translateY(0); }
+}
+@keyframes nose {
+  80% { transform: none;}
+  83% { transform: translateX(7.5px) scaleX(0.9); }
+  90% { transform: none;}
+  93% { transform: translateX(7.5px) scaleX(0.9); }
+  100% { transform: none; }
+}
+@keyframes squeeze {
+  90% { transform: none; animation-timing-function: ease-in; }
+  93% { transform: translateY(70px) scaleY(.1); }
+  100% { animation-timing-function: ease-out; }
+}
+</style>
+</svg>
