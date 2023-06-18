@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Blueberry</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
+
+A skillful full-stack engineer who is fitting for most of things from basic web apps to intricate high-performance systems.
+
+
+Well-versed in popular and modern technology stacks and related technologies, with expertise in building complex systems from scratch and maintaining existing codebases. This engineer has a strong desire for continuous learning and integration of new techniques to enhance their skills and stay up-to-date.
+
+
+Additionally, this individual enjoys the flexibility and comfort of working remotely from home.
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prettyblueberry" alt="prettyblueberry" /></a> </p> -->
 
-- 🌱 I’m currently learning **Rust**
 
 <!-- - 👨‍💻 All of my projects are available at [https://discord.com/users/1060016406810349671](https://discord.com/users/1060016406810349671) -->
-
-- 💬 Ask me about **Node.js, Express.js, React, Gatsby, Next.js, Golang, Firebase**
 
 <!-- - 📄 Know about my experiences [https://discord.com/users/1060016406810349671](https://discord.com/users/1060016406810349671) -->
 
