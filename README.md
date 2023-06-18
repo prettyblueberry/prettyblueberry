@@ -81,7 +81,7 @@ Additionally, this individual enjoys the flexibility and comfort of working remo
     </td>
     <td align="center" width="96">
         <img src="./gopher.svg" alt="icon" width="65" height="65" />
-      <br>Golang
+      <br>Go
     </td>
     <td align="center" width="96">
         <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="48" height="48" alt="css" />
