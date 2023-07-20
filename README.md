@@ -47,7 +47,7 @@ Additionally, this individual enjoys the flexibility and comfort of working remo
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://soliditylang.org/images/logo.svg" width="48" height="48" alt="css" />
+        <img src="https://soliditylang.org/assets/solidity-app-icon.svg" width="48" height="48" alt="css" />
       <br>Solidity
     </td>
     <td align="center" width="96">
