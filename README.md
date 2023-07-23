@@ -20,7 +20,8 @@ Additionally, this individual enjoys the flexibility and comfort of working remo
 <!-- - 📄 Know about my experiences [https://discord.com/users/1060016406810349671](https://discord.com/users/1060016406810349671) -->
 
 
-
+# 📪 Contact Me:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alt.jotfor.ms/prettyblueberry52702/contact-from-github" target="_blank" style="font-size:20px"><img src="https://www.jotform.com/resources/assets/svg/jotform-icon-white.svg"  style="margin-bottom:-3px" alt="icon" width="20" height="20"> Click here to open a message form.</a>
 
 
 # 💻 I'm a Native Writer of the following languages:
