@@ -48,10 +48,6 @@ Additionally, this individual enjoys the flexibility and comfort of working remo
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://soliditylang.org/assets/solidity-app-icon.svg" width="48" height="48" alt="css" />
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
         <img src="https://www.svgrepo.com/show/373546/dartlang.svg" width="48" height="48" alt="css" />
       <br>Dart
     </td>
@@ -59,16 +55,8 @@ Additionally, this individual enjoys the flexibility and comfort of working remo
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
     </tr>
     <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
@@ -86,16 +74,12 @@ Additionally, this individual enjoys the flexibility and comfort of working remo
       <br>Rust
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="css" />
-      <br>Ruby
+        <img src="https://soliditylang.org/assets/solidity-app-icon.svg" width="48" height="48" alt="css" />
+      <br>Solidity
     </td>
     <td align="center" width="96">
-        <img src="./sql.svg" width="48" height="48" alt="css" />
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-        <img src="./documentdb.svg" width="48" height="48" alt="css" />
-      <br>NoSQL
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
     </td>
   </tr>
 </table>
