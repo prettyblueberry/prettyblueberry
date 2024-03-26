@@ -3,14 +3,8 @@
 
 [![Profile Visitors](https://komarev.com/ghpvc/?username=prettyblueberry&label=Profile%20Visitors&color=0e75b6&style=flat)](https://github.com/prettyblueberry/)
 
+Curiosity, high goal-orientation, passionate working, startup mindset
 
-A skillful full-stack engineer who is fitting for most of things from basic web apps to intricate high-performance systems.
-
-
-Well-versed in popular and modern technology stacks and related technologies, with expertise in building complex systems from scratch and maintaining existing codebases. This engineer has a strong desire for continuous learning and integration of new techniques to enhance their skills and stay up-to-date.
-
-
-Additionally, this individual enjoys the flexibility and comfort of working remotely from home.
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prettyblueberry" alt="prettyblueberry" /></a> </p> -->
 
